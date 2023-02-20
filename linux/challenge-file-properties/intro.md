@@ -1,6 +1,6 @@
 # Create Files and File Properties With Linux Conmmand
 
-In this challenge, you will use basic Linux commands to create files, view file properties, modify file properties and change file owner.
+In this challenge, you will use `touch` command to create files, use  `ls` command to view file properties, use `chmod` to modify file properties and use `chown` to change file owner.
 
 ## Skills
 
