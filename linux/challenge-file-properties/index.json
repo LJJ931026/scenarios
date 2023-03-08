@@ -3,7 +3,7 @@
   "title": "File Properties",
   "description": "This challenge ask you to create a file using the basic Linux commands and, on that basis, to change the permissions of the file and to change the user to whom it belongs.",
   "difficulty": "Beginner",
-  "time": "15",
+  "time": 15,
   "details": {
     "steps": [
       {
